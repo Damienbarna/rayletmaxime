@@ -19,6 +19,9 @@
 - ⛔ Never stop learning things I enjoy.
 - 🤝 **Finding a tech job.**
 
+- fdp
+- 
+
 ---
 
 <h3 align="center">📍 Connect with me !</h3>
